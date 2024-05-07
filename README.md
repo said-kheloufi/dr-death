@@ -1,2 +1,34 @@
 # Dr Death
 ## Le médecin meurtrier
+
+# Power BI Desktop
+
+Power BI Desktop est une application gratuite que vous installez sur votre ordinateur local qui vous permet de vous connecter à, de transformer et de visualiser vos données. Avec Power BI Desktop, vous pouvez vous connecter à plusieurs sources de données différentes et les combiner (souvent appelé modélisation) en un modèle de données. Ce modèle de données vous permet de créer des visuels et des collections de visuels que vous pouvez partager sous forme de rapports avec d’autres personnes au sein de votre organisation.
+
+## Tableau de bord Power BI
+
+Un tableau de bord Power BI est une page unique, souvent appelée canevas, qui raconte une histoire à travers des visualisations. Parce qu’il est limité à une seule page, un tableau de bord bien conçu ne contient que les points forts de cette histoire. Les lecteurs peuvent consulter des rapports connexes pour obtenir plus de détails.
+
+## Avantages de Power BI
+
+- **Visualisations personnalisées** : Power BI offre une large gamme de visualisations personnalisées.
+- **Intégration Excel** : Dans Power BI, vous avez également la possibilité de télécharger et de visualiser vos données dans Excel.
+
+## Inconvénients de Power BI
+
+- **Courbe d’apprentissage abrupte** : Power BI a une courbe d’apprentissage abrupte, en particulier pour les personnes qui ne sont pas familières avec les produits Microsoft ou les techniques d’analyse de données.
+- **Personnalisation limitée** : Bien que Power BI offre une grande variété de possibilités de visualisation, certains utilisateurs peuvent découvrir que l’outil offre seulement quelques options de personnalisation.
+
+## Principales fonctionnalités de Power BI
+
+- Mise à jour mensuelle du produit.
+- Extraction d’informations à partir de grands ensembles de données.
+- Création de visualisations personnalisées avec R et Python.
+
+## Sources de données Power BI
+
+Power BI Desktop vous permet de vous connecter aux données de nombreuses sources différentes. Pour obtenir la liste complète des sources de données disponibles, consultez les sources de données Power BI6.
+
+## Visualisations dans Power BI
+
+Toutes ces visualisations peuvent être ajoutées à des rapports Power BI, spécifiées dans Q&A, et épinglées à des tableaux de bord. Les graphiques en aires, les graphiques à barres et les histogrammes, les cartes, les graphiques combinés sont quelques exemples de visualisations disponibles dans Power BI.
