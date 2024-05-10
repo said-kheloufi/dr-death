@@ -1,9 +1,12 @@
 # Dr Death
 ## Le médecin meurtrier
 
-## Introduction
+# Introduction
 
 Ce projet exploite la puissance de Microsoft Power BI pour déchiffrer et représenter graphiquement le modèle des crimes perpétrés par Harold Shipman, tristement célèbre sous le nom de Dr. Mort. Il a été jugé coupable de l’assassinat de 15 de ses patients, mais on soupçonne qu’il a fait un total de 215 victimes. Cette analyse vise à donner une vue détaillée des caractéristiques démographiques des victimes et du déroulement temporel des meurtres
+
+## Context
+Nous avons fait appel à deux jeux de données : shipman-confirmed-victims.csv et shipman-times-comparison.csv. Ces données englobent les décomptes de décès, à la fois confirmés et estimés, sur une période allant de 1975 à 1998. Elles ont été organisées en fonction de divers critères, tels que l’âge, le sexe, le moment et le lieu du décès des victimes.
 
 # Power BI 
 
