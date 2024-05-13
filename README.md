@@ -18,7 +18,7 @@ Pour mieux comprendre l’ampleur de ses crimes, nous avons utilisé deux ensemb
 
 ![alt text](<image/power-BI.png>)
 
-Power BI est une application gratuite que vous installez sur votre ordinateur local qui vous permet de vous connecter à, de transformer et de visualiser vos données. Avec Power BI, vous pouvez vous connecter à plusieurs sources de données différentes et les combiner (souvent appelé modélisation) en un modèle de données. Ce modèle de données vous permet de créer des visuels et des collections de visuels que vous pouvez partager sous forme de rapports avec d’autres personnes au sein de votre organisation.
+Power BI est une application gratuite que vous installez sur votre ordinateur local qui vous permet de vous connecter , de transformer et de visualiser vos données. Avec Power BI, vous pouvez vous connecter à plusieurs sources de données différentes et les combiner (souvent appelé modélisation) en un modèle de données. Ce modèle de données vous permet de créer des visuels et des collections de visuels que vous pouvez partager sous forme de rapports avec d’autres personnes au sein de votre organisation.
 
 ## Tableau de bord Power BI
 
