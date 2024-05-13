@@ -1,9 +1,7 @@
 # Dr Death
 ## Le médecin meurtrier
 
-# Introduction
-
-Ce projet exploite la puissance de Microsoft Power BI pour déchiffrer et représenter graphiquement le modèle des crimes perpétrés par Harold Shipman, tristement célèbre sous le nom de Dr. Mort. Il a été jugé coupable de l’assassinat de 15 de ses patients, mais on soupçonne qu’il a fait un total de 215 victimes. Cette analyse vise à donner une vue détaillée des caractéristiques démographiques des victimes et du déroulement temporel des meurtres
+![alt text](<image/Harold Shipman.jpg>)
 
 ## Context
 Harold Shipman, un docteur qui semblait respectable et qui pratiquait à Hyde, dans le Grand Manchester, dissimulait une vérité effroyable. Sur une période s’étendant de 1975 à 1998, il a administré une surdose d’opiacés à au moins 215 de ses patients, principalement des personnes âgées, provoquant leur mort.
@@ -17,6 +15,8 @@ Une enquête publique a ensuite été lancée pour identifier d’autres crimes 
 Pour mieux comprendre l’ampleur de ses crimes, nous avons utilisé deux ensembles de données : shipman-confirmed-victims.csv et shipman-times-comparison.csv. Ces données comprennent les décomptes de décès, confirmés et estimés, sur une période allant de 1975 à 1998. Elles ont été classées selon divers critères, tels que l’âge, le sexe, le moment et le lieu du décès des victimes. Ces informations précieuses vont permettre de mettre en évidence l’ampleur et le caractère systématique des crimes de Shipman.
 
 # Power BI 
+
+![alt text](<image/power-BI.png>)
 
 Power BI est une application gratuite que vous installez sur votre ordinateur local qui vous permet de vous connecter à, de transformer et de visualiser vos données. Avec Power BI, vous pouvez vous connecter à plusieurs sources de données différentes et les combiner (souvent appelé modélisation) en un modèle de données. Ce modèle de données vous permet de créer des visuels et des collections de visuels que vous pouvez partager sous forme de rapports avec d’autres personnes au sein de votre organisation.
 
