@@ -6,7 +6,15 @@
 Ce projet exploite la puissance de Microsoft Power BI pour déchiffrer et représenter graphiquement le modèle des crimes perpétrés par Harold Shipman, tristement célèbre sous le nom de Dr. Mort. Il a été jugé coupable de l’assassinat de 15 de ses patients, mais on soupçonne qu’il a fait un total de 215 victimes. Cette analyse vise à donner une vue détaillée des caractéristiques démographiques des victimes et du déroulement temporel des meurtres
 
 ## Context
-Nous avons fait appel à deux jeux de données : shipman-confirmed-victims.csv et shipman-times-comparison.csv. Ces données englobent les décomptes de décès, à la fois confirmés et estimés, sur une période allant de 1975 à 1998. Elles ont été organisées en fonction de divers critères, tels que l’âge, le sexe, le moment et le lieu du décès des victimes.
+Harold Shipman, un docteur qui semblait respectable et qui pratiquait à Hyde, dans le Grand Manchester, dissimulait une vérité effroyable. Sur une période s’étendant de 1975 à 1998, il a administré une surdose d’opiacés à au moins 215 de ses patients, principalement des personnes âgées, provoquant leur mort.
+
+La fille d’une de ses victimes, qui était avocate, a commencé à avoir des doutes lorsqu’il a tenté de falsifier un testament pour hériter d’une partie de la fortune de la défunte. Une analyse de son ordinateur a montré qu’il modifiait les dossiers médicaux de ses patients après coup pour faire croire qu’ils étaient plus malades qu’ils ne l’étaient en réalité, sans réaliser que chaque modification était enregistrée avec la date et l’heure.
+
+Des analyses effectuées sur quinze victimes potentielles, qui n’avaient pas été incinérées, ont révélé la présence de doses mortelles d’héroïne, d’alcool et d’autres substances. En 1999, Shipman a été jugé pour quinze meurtres, reconnu coupable et condamné à la réclusion à perpétuité.
+
+Une enquête publique a ensuite été lancée pour identifier d’autres crimes qu’il aurait pu commettre, et il a été confirmé qu’il avait bien tué 215 personnes. Harold Shipman est considéré comme l’un des tueurs en série les plus prolifiques de l’histoire. Ce cas illustre la fragilité de la confiance et les conséquences dévastatrices de l’abus de pouvoir, ébranlant les fondements mêmes de la profession médicale.
+
+Pour mieux comprendre l’ampleur de ses crimes, nous avons utilisé deux ensembles de données : shipman-confirmed-victims.csv et shipman-times-comparison.csv. Ces données comprennent les décomptes de décès, confirmés et estimés, sur une période allant de 1975 à 1998. Elles ont été classées selon divers critères, tels que l’âge, le sexe, le moment et le lieu du décès des victimes. Ces informations précieuses vont permettre de mettre en évidence l’ampleur et le caractère systématique des crimes de Shipman.
 
 # Power BI 
 
@@ -44,15 +52,15 @@ Toutes ces visualisations peuvent être ajoutées à des rapports Power BI, spé
 
 ![alt text](<image/distribution des âges au moment du décès.png>)
 
-On peut voir sur ce graphique que les cible de dr. Harold Shipman son principalement des personnes âgée entre 70 et 89.
+les cible de dr. Harold Shipman son principalement des personnes âgée entre 70 et 89. Et que plupart des victimes sont décédées à leur domicile
 
 ![alt text](<image/le nombre de décès par année.png>)
 
-Ce graphique démontre le nombre de décès par année, on peut voir un pic de décès en 1997 avec plus de 36 morts. 
+les crimes de Harold Shipman ont eu lieu sur une période de plus de 20 ans, de 1975 à 1998, avec 1997 étant l’année la plus meurtrière.
 
-![alt text](<image/lieu de décès.png>)
+![alt text](<image/répartition des décès par sexe.png>)
 
-On peut observer que la plupart des victimes sont décédées à leur domicile.
+Harold Shipman avait une préférence perverse pour les femmes, qui représentaient plus de 80% de ses victimes, tandis que seulement 17% étaient des hommes.
 
 # Conclusion
 
