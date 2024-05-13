@@ -64,4 +64,4 @@ Harold Shipman avait une préférence perverse pour les femmes, qui représentai
 
 # Conclusion
 
-D’après l’analyse des donnee, nous pouvons conclure que les crimes commis par le Dr. Mort présentent des tendances spécifiques. Les victimes étaient majoritairement des femmes âgés, avec une concentration particulière dans les groupes d’âge de 70 à 89 ans. Il y a eu une augmentation notable du nombre de décès autour de l’année 1995. De plus, la majorité des décès ont eu lieu à la maison personnelle des victimes. Ces informations auraient pu servir d’indicateurs précoces pour identifier les activités criminelles du Dr. Mort.
+D’après l’analyse des donnee, nous pouvons conclure que les crimes commis par le Dr. Mort présentent des tendances spécifiques. Les victimes étaient majoritairement des femmes âgés, avec une concentration particulière dans les groupes d’âge de 70 à 89 ans. Il y a eu une augmentation notable du nombre de décès autour de l’année 1995. De plus, la majorité des décès ont eu lieu à la maison personnelle des victimes. Ces informations auraient pu servir d’indicateurs précoces pour identifier les activités criminelles du Dr. Death.
