@@ -12,7 +12,7 @@ Des analyses effectuées sur quinze victimes potentielles, qui n’avaient pas �
 
 Une enquête publique a ensuite été lancée pour identifier d’autres crimes qu’il aurait pu commettre, et il a été confirmé qu’il avait bien tué 215 personnes. Harold Shipman est considéré comme l’un des tueurs en série les plus prolifiques de l’histoire. Ce cas illustre la fragilité de la confiance et les conséquences dévastatrices de l’abus de pouvoir, ébranlant les fondements mêmes de la profession médicale.
 
-Pour mieux comprendre l’ampleur de ses crimes, nous avons utilisé deux ensembles de données : shipman-confirmed-victims.csv et shipman-times-comparison.csv. Ces données comprennent les décomptes de décès, confirmés et estimés, sur une période allant de 1975 à 1998. Elles ont été classées selon divers critères, tels que l’âge, le sexe, le moment et le lieu du décès des victimes. Ces informations précieuses vont permettre de mettre en évidence l’ampleur et le caractère systématique des crimes de Shipman.
+Pour mieux comprendre l’ampleur de ses crimes, nous avons utilisé deux ensembles de données : shipman-confirmed-victims.csv et shipman-times-comparison.csv. Ces données comprennent les décomptes de décès, sur une période allant de 1975 à 1998. Elles ont été classées selon divers critères, tels que l’âge, le sexe, le moment et le lieu du décès des victimes. Ces informations précieuses vont permettre de mettre en évidence l’ampleur et le caractère systématique des crimes de Shipman.
 
 # Power BI 
 
