@@ -50,15 +50,15 @@ Toutes ces visualisations peuvent être ajoutées à des rapports Power BI, spé
 
 # Analyse des données
 
-![alt text](<image/distribution des âges au moment du décès.png>)
+![alt text](<image/distribution des âges au moment du décè.png>)
 
 les cible de dr. Harold Shipman son principalement des personnes âgée entre 70 et 89. Et que plupart des victimes sont décédées à leur domicile
 
-![alt text](<image/le nombre de décès par année.png>)
+![alt text](<image/le nombre de décès par anné.png>)
 
 les crimes de Harold Shipman ont eu lieu sur une période de plus de 20 ans, de 1975 à 1998, avec 1997 étant l’année la plus meurtrière.
 
-![alt text](<image/répartition des décès par sexe.png>)
+![alt text](<image/répartition des décès par sex.png>)
 
 Harold Shipman avait une préférence perverse pour les femmes, qui représentaient plus de 80% de ses victimes, tandis que seulement 17% étaient des hommes.
 
